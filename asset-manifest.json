@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dad-jokes-app/static/css/main.ebf154b7.chunk.css",
+    "main.js": "/dad-jokes-app/static/js/main.3eb0b369.chunk.js",
+    "main.js.map": "/dad-jokes-app/static/js/main.3eb0b369.chunk.js.map",
+    "runtime-main.js": "/dad-jokes-app/static/js/runtime-main.6d8bd00d.js",
+    "runtime-main.js.map": "/dad-jokes-app/static/js/runtime-main.6d8bd00d.js.map",
+    "static/js/2.0f6cb2b1.chunk.js": "/dad-jokes-app/static/js/2.0f6cb2b1.chunk.js",
+    "static/js/2.0f6cb2b1.chunk.js.map": "/dad-jokes-app/static/js/2.0f6cb2b1.chunk.js.map",
+    "static/js/3.79406d49.chunk.js": "/dad-jokes-app/static/js/3.79406d49.chunk.js",
+    "static/js/3.79406d49.chunk.js.map": "/dad-jokes-app/static/js/3.79406d49.chunk.js.map",
+    "index.html": "/dad-jokes-app/index.html",
+    "static/css/main.ebf154b7.chunk.css.map": "/dad-jokes-app/static/css/main.ebf154b7.chunk.css.map",
+    "static/js/2.0f6cb2b1.chunk.js.LICENSE.txt": "/dad-jokes-app/static/js/2.0f6cb2b1.chunk.js.LICENSE.txt",
+    "static/media/emoji-face.abbe2118.png": "/dad-jokes-app/static/media/emoji-face.abbe2118.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8bd00d.js",
+    "static/js/2.0f6cb2b1.chunk.js",
+    "static/css/main.ebf154b7.chunk.css",
+    "static/js/main.3eb0b369.chunk.js"
+  ]
+}
